@@ -1,6 +1,10 @@
 # F1 Telemetry - Python
 Receives and processes the UDP Telemetry data of the Codemasters' Formula One game.
 
+### License
+This work is licensed under a "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
+More information about this license can be found using this URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 ### F1 Setup
 In order for this program to work, you need to enable the UDP Telemetry option in F1 2017. To do this, follow these steps:
 1. Open the game options.
