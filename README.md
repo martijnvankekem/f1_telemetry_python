@@ -2,7 +2,7 @@
 Receives and processes the UDP Telemetry data of the Codemasters' Formula One game.
 
 ### F1 Setup
-In order for this program to work, you need to enable the UDP Telemetry option in F1 2017. To to this, follow these steps:
+In order for this program to work, you need to enable the UDP Telemetry option in F1 2017. To do this, follow these steps:
 1. Open the game options.
 2. Choose 'UDP Telemetry settings', under 'Preferences'.
 3. Switch 'UDP Telemetry' to 'On'
@@ -24,4 +24,4 @@ Tag is here a string object, containing the name of the value you want to receiv
 ### Credits
 This program was written from scratch by myself. I want to thank all the sources that helped me create this application.
 + https://github.com/gmaslowski/f1game-telemetry/wiki/udp-packet-1237-structure
-- http://forums.codemasters.com/discussion/53139/f1-2017-d-box-and-udp-output-specification
++ http://forums.codemasters.com/discussion/53139/f1-2017-d-box-and-udp-output-specification
