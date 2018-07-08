@@ -22,6 +22,6 @@ getValByName(tag)
 Tag is here a string object, containing the name of the value you want to receive. All the possible values can be found under 'ArrayStructure.py'
 
 ### Credits
-This program was written from scratch by myself. I want to thank all the sources that helped be create this application.
+This program was written from scratch by myself. I want to thank all the sources that helped me create this application.
 + https://github.com/gmaslowski/f1game-telemetry/wiki/udp-packet-1237-structure
 - http://forums.codemasters.com/discussion/53139/f1-2017-d-box-and-udp-output-specification
